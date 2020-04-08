@@ -1,2 +1,3 @@
-# sgedye-old
-Old copy of my online resume
+# Online Resume
+
+[View Online Resume](https://sgedye.github.io) hosted on GitHub Pages.
